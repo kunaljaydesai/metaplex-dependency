@@ -1,0 +1,14 @@
+{
+  "name": "metaplex-dependency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@metaplex-foundation/js-next": "^0.9.0",
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.43.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
